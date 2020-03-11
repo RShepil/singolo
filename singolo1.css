@@ -102,9 +102,6 @@ nav a+a:before {
   border-radius: 50%;
 }
 
-
-/*слайдер*/
-
 section.slider {
   width: 100%;
   max-width: 1020px;
@@ -162,9 +159,6 @@ section.slider {
   margin-left: 69px;
 }
 
-
-/*детали*/
-
 .details {
   display: flex;
   justify-content: space-between;
@@ -214,9 +208,6 @@ section.slider {
 .detail:nth-child(3n) div.text h2 {
   margin-left: 2px;
 }
-
-
-/*сервисы*/
 
 .services {
   padding-left: 40px;
