@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+    font-family: 'Lato', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 300;
+    color: #767e9e;
+  }
+
+  .block-1 {
+      width: 100%;
+      background: #2d303a;
+  }
+
+  .portfolio {
+      width: 752px;
+      margin: -20px auto;
+  }
+
+  .portfolio h1 {
+      font-size: 25px;
+      line-height: 17,86px;
+      font-weight: 900;
+      letter-spacing: -0.55px;
+
+      padding-top: 48px;
+
+      color: #666d89;
+  }
+  
+  .portfolio p {
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 300;
+    letter-spacing: -0.241px;
+
+    margin-top: -10px;
+    margin-bottom: -3px;
+
+    color: #767e9e;
+  }
+
+ .portfolio div button{
+     background-color: #2d303a;
+     border: 1px solid #767e9e;
+     border-radius: 4px;
+
+     font-size: 10px;
+     line-height: 21,56px;
+     font-weight: 400;
+     letter-spacing: -0,9px;
+     color: #767e9e;
+
+     margin-right: 5px;
+     padding: 3px 5px 2px 5px;
+ }
